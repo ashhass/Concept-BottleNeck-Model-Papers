@@ -9,16 +9,16 @@ Interactive Concept Bottleneck Models[https://ojs.aaai.org/index.php/AAAI/articl
 
 
 # 2022
-[Post-hoc Concept Bottleneck Models]([url](https://arxiv.org/pdf/2205.15480.pdf))
-[Addressing Leakage in Concept Bottleneck Models]([url](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf))
+[Post-hoc Concept Bottleneck Models]([(https://arxiv.org/pdf/2205.15480.pdf)])
+[Addressing Leakage in Concept Bottleneck Models]([(https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf)])
 
 
 # 2021
-[Do Concept Bottleneck Models learn as intended]([url](https://arxiv.org/abs/2105.04289))
+[Do Concept Bottleneck Models learn as intended]([(https://arxiv.org/abs/2105.04289)])
 
 
 # 2020
-[Concept Bottleneck Model]([url](https://proceedings.mlr.press/v119/koh20a.html)https://proceedings.mlr.press/v119/koh20a.html)
+[Concept Bottleneck Model]([(https://proceedings.mlr.press/v119/koh20a.html)https://proceedings.mlr.press/v119/koh20a.html)])
 
 
 # 2019
