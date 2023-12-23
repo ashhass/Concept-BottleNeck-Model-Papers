@@ -22,5 +22,7 @@ This repository contains all papers remotely related to concept bottleneck model
 # 2020
 [Concept Bottleneck Model](https://proceedings.mlr.press/v119/koh20a.html)
 
+[Now You See Me (CME): Concept-based Model Extraction](https://arxiv.org/pdf/2010.13233.pdf)
+
 
 # 2019
