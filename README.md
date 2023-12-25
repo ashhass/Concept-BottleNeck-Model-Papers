@@ -22,6 +22,12 @@ This repository contains all papers on concept bottleneck models organized by ye
 # 2020
 [Concept Bottleneck Model](https://proceedings.mlr.press/v119/koh20a.html)
 
+Description:  Introduces a framework to extract concepts from feature vectors that are later used to predict target labels.
+Three methods:
+  1. Independent: Train to predict concept c from input x independently from predicting label y from concept c.
+  2. Sequential: Train to predict concept c first then predict the label from predicted concepts c.
+  3. Joint: Simultaneously predicts concept c and target label y using a joint loss function.
+
 [Now You See Me (CME): Concept-based Model Extraction](https://arxiv.org/pdf/2010.13233.pdf)
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf)
