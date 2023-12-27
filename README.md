@@ -18,6 +18,8 @@ This repository contains all papers on concept bottleneck models organized by ye
 # 2021
 [Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289)
 
+Investigates which regions in the input space CBMs use to make predictions. Claims that pretrained concepts do not correspond to anything semantically meaningful in the input space suggesting that CBMs might be using confounding information to make concept label predictions.
+
 
 # 2020
 [Concept Bottleneck Model](https://proceedings.mlr.press/v119/koh20a.html)
