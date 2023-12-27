@@ -37,6 +37,8 @@ Three methods:
 [DEBIASING CONCEPT-BASED EXPLANATIONS WITH CAUSAL ANALYSIS
 ](https://arxiv.org/pdf/2007.11500.pdf)
 
+Introduces a causal prior graph which attempts to model unobserved confounding information the model might be using to make its predictions. Uses a two stage regression technique to remove the detected confounding information. 
+
 [Wilds: A Benchmark of in-the-Wild Distribution Shifts
 ](https://www.researchgate.net/profile/Sara-Beery/publication/347125548_WILDS_A_Benchmark_of_in-the-Wild_Distribution_Shifts/links/60b7edf44585159354cae05a/WILDS-A-Benchmark-of-in-the-Wild-Distribution-Shifts.pdf)
 
