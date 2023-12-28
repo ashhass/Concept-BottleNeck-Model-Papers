@@ -31,7 +31,6 @@ Three methods:
   3. Joint: Simultaneously predicts concept c and target label y using a joint loss function.
 
 Limitations: 1. Does not investigate the possibility of concept botteneck models learning spurious input features to make concept predictions. 
-             
              2. The joint framework (the preferred framework in the paper) might learn features directly from the input to predict target labels giving less value to the pre-specified concepts and more to uninterpretable attributes. 
 
 [Now You See Me (CME): Concept-based Model Extraction](https://arxiv.org/pdf/2010.13233.pdf)
