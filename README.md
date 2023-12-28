@@ -30,6 +30,9 @@ Three methods:
   2. Sequential: Train to predict concept c first then predict the label from predicted concepts c.
   3. Joint: Simultaneously predicts concept c and target label y using a joint loss function.
 
+Limitations: 1. Does not investigate the possibility of concept botteneck models learning spurious input features to make concept predictions. 
+             2. The joint framework (the preferred framework in the paper) might learn features directly from the input to predict target labels giving less value to the pre-specified concepts and more to uninterpretable attributes. 
+
 [Now You See Me (CME): Concept-based Model Extraction](https://arxiv.org/pdf/2010.13233.pdf)
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf)
