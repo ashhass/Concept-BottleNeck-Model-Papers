@@ -39,6 +39,14 @@ Limitations:
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf)
 
+Description: Explores the idea of complete concepts in deep neural networks
+Specifically,
+  1. Defines completeness of concepts in deep neural networks
+  2. Introduces a completeness score to evaluate how sufficient concepts are for model predictions
+  3. Introduces a method to discover complete, interpretable concepts
+  4. ConceptSHAP: studies how important individual concepts are to the overall completeness score
+
+
 [DEBIASING CONCEPT-BASED EXPLANATIONS WITH CAUSAL ANALYSIS
 ](https://arxiv.org/pdf/2007.11500.pdf)
 
