@@ -20,6 +20,13 @@ This repository contains all papers on concept bottleneck models organized by ye
 
 Investigates which regions in the input space CBMs use to make predictions. Claims that pretrained concepts do not correspond to anything semantically meaningful in the input space suggesting that CBMs might be using confounding information to make concept label predictions.
 
+[Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf)
+
+[Editing a Classifier by Rewriting Its Prediction Rules](https://arxiv.org/pdf/2112.01008.pdf)
+
+[IS DISENTANGLEMENT ALL YOU NEED? COM- PARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES](https://arxiv.org/pdf/2104.06917.pdf)
+
+
 
 # 2020
 [Concept Bottleneck Model](https://proceedings.mlr.press/v119/koh20a.html)
