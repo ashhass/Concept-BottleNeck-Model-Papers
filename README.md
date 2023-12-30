@@ -40,7 +40,7 @@ Limitations:
 Description: Introduces a model extraction framework that is used to analyse concept information in DNN models. Specifically,
   1. Discovers concepts learnt by a DNN model: Does so by approximating two functions, a function that predicts intermediate concept labels and a function that predicts the target labels from concept predictions.
   2. Analyses how DNNs use concept information when predicting labels: utilizes latent space analysis methods to inspect which concepts are learned and how these concepts are represented across different DNN layers.
-  3. Identifies the most important concept information: Does so by picking 32 highest coefficients from logistic regression model trained to predict target labels from ground-truth concept labels. 
+  3. Identifies the most important concept information: Does so by picking the 32 highest coefficients from a logistic regression model trained to predict target labels from ground-truth concept labels. 
 
 [On Completeness-aware Concept-Based Explanations in Deep Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2020/file/ecb287ff763c169694f682af52c1f309-Paper.pdf)
 
