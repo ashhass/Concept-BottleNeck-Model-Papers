@@ -18,9 +18,11 @@ This repository contains all papers on concept bottleneck models organized by ye
 # 2021
 [Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289)
 
-Investigates which regions in the input space CBMs use to make predictions. Claims that pretrained concepts do not correspond to anything semantically meaningful in the input space suggesting that CBMs might be using confounding information to make concept label predictions.
+Description: Investigates which regions in the input space CBMs use to make predictions. Claims that pretrained concepts do not correspond to anything semantically meaningful in the input space suggesting that CBMs might be using confounding information to make concept label predictions.
 
 [Promises and Pitfalls of Black-Box Concept Learning Models](https://arxiv.org/pdf/2106.13314.pdf)
+
+Description: Empirically shows that current methods such as concept whitening models and sequential CBMs that attempt to address the information leakage problem in concept bottleneck models are largely ineffective. 
 
 [Editing a Classifier by Rewriting Its Prediction Rules](https://arxiv.org/pdf/2112.01008.pdf)
 
@@ -61,7 +63,7 @@ Description: Explores the idea of complete concepts in deep neural networks. Spe
 [DEBIASING CONCEPT-BASED EXPLANATIONS WITH CAUSAL ANALYSIS
 ](https://arxiv.org/pdf/2007.11500.pdf)
 
-Introduces a causal prior graph which attempts to model unobserved confounding information the model might be using to make its predictions. Uses a two stage regression technique to remove the detected confounding information. 
+Description: Introduces a causal prior graph which attempts to model unobserved confounding information the model might be using to make its predictions. Uses a two stage regression technique to remove the detected confounding information. 
 
 [Wilds: A Benchmark of in-the-Wild Distribution Shifts
 ](https://www.researchgate.net/profile/Sara-Beery/publication/347125548_WILDS_A_Benchmark_of_in-the-Wild_Distribution_Shifts/links/60b7edf44585159354cae05a/WILDS-A-Benchmark-of-in-the-Wild-Distribution-Shifts.pdf)
