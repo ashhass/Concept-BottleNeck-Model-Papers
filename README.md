@@ -24,7 +24,7 @@ Investigates which regions in the input space CBMs use to make predictions. Clai
 
 [Editing a Classifier by Rewriting Its Prediction Rules](https://arxiv.org/pdf/2112.01008.pdf)
 
-[IS DISENTANGLEMENT ALL YOU NEED? COM- PARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES](https://arxiv.org/pdf/2104.06917.pdf)
+[IS DISENTANGLEMENT ALL YOU NEED? COMPARING CONCEPT-BASED & DISENTANGLEMENT APPROACHES](https://arxiv.org/pdf/2104.06917.pdf)
 
 
 
@@ -66,4 +66,3 @@ Introduces a causal prior graph which attempts to model unobserved confounding i
 [Wilds: A Benchmark of in-the-Wild Distribution Shifts
 ](https://www.researchgate.net/profile/Sara-Beery/publication/347125548_WILDS_A_Benchmark_of_in-the-Wild_Distribution_Shifts/links/60b7edf44585159354cae05a/WILDS-A-Benchmark-of-in-the-Wild-Distribution-Shifts.pdf)
 
-# 2019
