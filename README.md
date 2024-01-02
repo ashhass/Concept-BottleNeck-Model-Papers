@@ -14,6 +14,10 @@ This repository contains all papers on concept bottleneck models organized by ye
 
 [Addressing Leakage in Concept Bottleneck Models](https://proceedings.neurips.cc/paper_files/paper/2022/file/944ecf65a46feb578a43abfd5cddd960-Paper-Conference.pdf)
 
+[From “Where” to “What”: Towards Human-Understandable Explanations through Concept Relevance Propagation
+](https://arxiv.org/pdf/2206.03208.pdf)
+
+
 
 # 2021
 [Do Concept Bottleneck Models learn as intended](https://arxiv.org/abs/2105.04289)
