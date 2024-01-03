@@ -8,6 +8,8 @@ This repository contains all papers on concept bottleneck models organized by ye
 
 [A closer look at the intervention procedure of concept bottleneck models](https://arxiv.org/pdf/2302.14260.pdf)
 
+[Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf)
+
 
 # 2022
 [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf)
