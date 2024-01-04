@@ -8,6 +8,9 @@ This repository contains all papers on concept bottleneck models organized by ye
 
 [A closer look at the intervention procedure of concept bottleneck models](https://arxiv.org/pdf/2302.14260.pdf)
 
+[Language in a Bottle: Language Model Guided Concept Bottlenecks for Interpretable Image Classification
+](https://arxiv.org/pdf/2211.11158.pdf)
+
 [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf)
 
 
