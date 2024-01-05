@@ -1,6 +1,6 @@
 # Concept-BottleNeck-Model-Papers
 
-This repository contains all papers on concept bottleneck models organized by year of publishing.
+This repository contains important papers on concept bottleneck models organized by year of publishing.
 
 
 # 2023
@@ -13,6 +13,8 @@ This repository contains all papers on concept bottleneck models organized by ye
 
 [Label Free Concept Bottleneck Models](https://arxiv.org/pdf/2304.06129.pdf)
 
+[Concept-based Explainable Artificial Intelligence: A Survey
+](https://arxiv.org/pdf/2312.12936.pdf)
 
 # 2022
 [Post-hoc Concept Bottleneck Models](https://arxiv.org/pdf/2205.15480.pdf)
